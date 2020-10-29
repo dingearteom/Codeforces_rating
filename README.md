@@ -8,3 +8,14 @@ Project is realized using Codeforces API and Google Drive API.
 * And then it posts it on your Google Drive.
 
 
+Firstly, run specify_meta_information.py and type information you will be asked:
+* Group name
+* Desirable name for eventual xlsx file
+* API_KEY from Codeforces platform 
+* SECRET
+
+Note, Group name can be whatever, but in all your group's competetions you are to make English description as follows:
+Group:YOUR_GROUP_NAME 
+
+It is done due to reason that Codeforces lacks API that works with groups.
+
