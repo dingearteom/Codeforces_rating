@@ -6,14 +6,12 @@ import random
 import hashlib
 import time
 import pandas as pd
+from meta import API_KEY, SECRET
 
 warnings.filterwarnings('ignore', message='Unverified HTTPS request')
 ssl._create_default_https_context = ssl._create_unverified_context
 
 HOST = "https://codeforces.com/api"
-API_KEY = "d600e6f9770b448ad481f0d93c08b989a7241c53"
-SECRET = "81b133de6595651c3908c2371af1bfef0dbea93d"
-
 HEADER = {"Content-Type": "application/json"}
 
 def print_pretty_json(data):

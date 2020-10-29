@@ -1,1 +1,0 @@
-{"Group": "Бурундучки", "FILE_NAME_DISK": "Table"}
