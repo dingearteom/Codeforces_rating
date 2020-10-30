@@ -11,8 +11,8 @@ Project is realized using Codeforces API and Google Drive API.
 Firstly, run specify_meta_information.py and type information you will be asked:
 * Group name
 * Desirable name for eventual xlsx file
-* API_KEY from Codeforces platform 
-* SECRET
+* API_KEY from Codeforces platform API
+* SECRET from Codeforces platform API
 
 Note, Group name can be whatever, but in all your group's competetions you are to make English description as follows:
 Group:YOUR_GROUP_NAME 
